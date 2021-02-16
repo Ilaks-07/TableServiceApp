@@ -1,0 +1,10 @@
+C:\Users\akhil\source\repos\Ilaks Assignment 1\bin\Debug\Ilaks Assignment 1.exe.config
+C:\Users\akhil\source\repos\Ilaks Assignment 1\bin\Debug\Ilaks Assignment 1.exe
+C:\Users\akhil\source\repos\Ilaks Assignment 1\bin\Debug\Ilaks Assignment 1.pdb
+C:\Users\akhil\source\repos\Ilaks Assignment 1\obj\Debug\Ilaks Assignment 1.csprojAssemblyReference.cache
+C:\Users\akhil\source\repos\Ilaks Assignment 1\obj\Debug\Ilaks_Assignment_1.Form1.resources
+C:\Users\akhil\source\repos\Ilaks Assignment 1\obj\Debug\Ilaks_Assignment_1.Properties.Resources.resources
+C:\Users\akhil\source\repos\Ilaks Assignment 1\obj\Debug\Ilaks Assignment 1.csproj.GenerateResource.cache
+C:\Users\akhil\source\repos\Ilaks Assignment 1\obj\Debug\Ilaks Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\akhil\source\repos\Ilaks Assignment 1\obj\Debug\Ilaks Assignment 1.exe
+C:\Users\akhil\source\repos\Ilaks Assignment 1\obj\Debug\Ilaks Assignment 1.pdb
